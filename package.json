@@ -1,0 +1,18 @@
+{
+  "name": "wh-design-pattern",
+  "version": "1.0.0",
+  "description": "usefull design-pattern tool function",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuhao",
+  "license": "ISC",
+  "_from": "wh-design-pattern@1.0.0",
+  "_resolved": "http://registry.npm.taobao.org/wh-design-pattern/download/wh-design-pattern-1.0.0.tgz"
+}
